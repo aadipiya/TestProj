@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33183" started-at="2019-01-16T11:50:54Z" finished-at="2019-01-16T11:51:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33183" started-at="2019-01-16T11:50:54Z" finished-at="2019-01-16T11:51:27Z">
+      <class name="sampl.HalfEbay">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="setUp" is-config="true" duration-ms="10688" started-at="2019-01-16T11:50:55Z" finished-at="2019-01-16T11:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="Login" duration-ms="1097" started-at="2019-01-16T11:51:05Z" data-provider="getData" finished-at="2019-01-16T11:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AutomationUser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Auto@1235]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HNL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="tearDown" is-config="true" duration-ms="343" started-at="2019-01-16T11:51:07Z" finished-at="2019-01-16T11:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="setUp" is-config="true" duration-ms="8740" started-at="2019-01-16T11:51:07Z" finished-at="2019-01-16T11:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="Login" duration-ms="922" started-at="2019-01-16T11:51:16Z" data-provider="getData" finished-at="2019-01-16T11:51:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sayli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qidtech#1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MCT]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="tearDown" is-config="true" duration-ms="82" started-at="2019-01-16T11:51:17Z" finished-at="2019-01-16T11:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="setUp" is-config="true" duration-ms="9248" started-at="2019-01-16T11:51:17Z" finished-at="2019-01-16T11:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="Login" duration-ms="1047" started-at="2019-01-16T11:51:26Z" data-provider="getData" finished-at="2019-01-16T11:51:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[auto_superadmin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Auto@1235]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HNL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sampl.HalfEbay@5f3a4b84]" name="tearDown" is-config="true" duration-ms="324" started-at="2019-01-16T11:51:27Z" finished-at="2019-01-16T11:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sampl.HalfEbay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
